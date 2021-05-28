@@ -42,6 +42,4 @@ while user_prompt:
        user_prompt = True
        continue
 
-
-
 print("Thank you for using our service.")
